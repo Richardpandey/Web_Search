@@ -1,0 +1,4 @@
+# Runtime dependencies
+requests>=2.31.0,<3.0.0
+pyfiglet>=0.8.post1,<1.0.0
+termcolor>=2.4.0,<3.0.0
